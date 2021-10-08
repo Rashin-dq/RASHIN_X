@@ -1,4 +1,4 @@
-# Sophia
+# maalooty
 Simple whatsapp bot | Reedited from whatsasena 
 
 
@@ -12,7 +12,7 @@ Simple whatsapp bot | Reedited from whatsasena
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hisham-muhammed</a> to make it public
+Project created by <a href="https://github.com/Rashin-dq/Rashin-x">Hisham-muhammed</a> to make it public
     <br>
        | Â© |
         Reserved |
@@ -86,7 +86,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Hisham-Muhammed/Sophia-Mwol
+$ git clone https://github.com/Rashin-dq/Rashin-x
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -96,7 +96,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Hisham-Muhammed/Sophia-Mwol
+$ git clone https://github.com/Rashin-dq/Rashin-x
 $ cd Sophia-Mwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
