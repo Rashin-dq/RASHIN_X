@@ -3,7 +3,7 @@ Simple whatsapp bot | Reedited from whatsasena
 
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/1CjbIG8.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="Ll.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
