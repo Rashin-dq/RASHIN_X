@@ -8,7 +8,7 @@ Simple whatsapp bot | Reedited from whatsasena
 <a href="#"><img title="RASHIN_X" src="https://img.shields.io/badge/RASHIN_X-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/Author-hisham-muhammed/RASHIN_X?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Rashin-dq/RASHIN_X"><img title="Author" src="https://img.shields.io/badge/Author-hisham-muhammed/RASHIN_X?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/Rashin-dq/Rashin-x">Hisham-muhamm
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/hisham___muhammed__?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/rashin__ff?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot ðŸ‘‡:</h4>
 <p align="center">
