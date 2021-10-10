@@ -1,4 +1,4 @@
-# maalooty
+# RASHIN_X
 Simple whatsapp bot | Reedited from whatsasena 
 
 
