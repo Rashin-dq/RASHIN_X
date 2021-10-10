@@ -12,7 +12,7 @@ Simple whatsapp bot | Reedited from whatsasena
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Rashin-dq/Rashin-x">Hisham-muhammed</a> to make it public
+Project created by <a href="https://github.com/Rashin-dq/Rashin-x">RASHIN_X</a> to make it public
     <br>
        | Â© |
         Reserved |
