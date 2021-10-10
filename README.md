@@ -53,7 +53,7 @@ Project created by <a href="https://github.com/Rashin-dq/Rashin-x">RASHIN_X</a> 
 Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FXtVxJcVPu7IlafgXr0s5o)
 
 ## 
   <h3 align="center">ðŸ“¢ Support Group 2:</h3>
