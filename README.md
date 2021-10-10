@@ -87,7 +87,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/Rashin-dq/Rashin-x
-$ cd pikachu
+$ cd RASHIN_X
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -97,7 +97,7 @@ $ node qr.js
 ```js
 SETUP
 $ git clone https://github.com/Rashin-dq/Rashin-x
-$ cd Sophia-Mwol
+$ cd RASHIN_X
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ node qr.js
