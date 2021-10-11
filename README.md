@@ -74,7 +74,7 @@ Click Sophia logo to Join Support Group 2ðŸ‘‡
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rashin-dq/RASHIN_X.git)
      </div>
 <br>
-<br >
+<br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
 bash <(curl -L https://t.ly/tHxh)
